@@ -49,7 +49,7 @@ The Shoes-for-men is an e-commerce website consisting different kinds of shoes a
 ![App ScreenShot](https://i.imgur.com/nqgj3VW.png) 
 
 ## Admin Page: 
-- Admin can flip between products and users section 
+- Admin can switch between products and users section 
 ![App ScreenShot](https://i.imgur.com/Kk5vzW1.png) 
 ![App ScreenShot](https://i.imgur.com/Un7W58p.png)  
 
