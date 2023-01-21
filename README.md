@@ -68,6 +68,7 @@ The Shoes-for-men is an e-commerce website consisting different kinds of shoes a
 ## Tech-Stack used :
 - HTML
 - CSS
+- Javascript
 - React
 - Redux
 - React-router-dom
